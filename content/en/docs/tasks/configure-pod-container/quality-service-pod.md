@@ -28,6 +28,7 @@ scheduling and evicting Pods.
 When Kubernetes creates a Pod it assigns one of these QoS classes to the Pod:
 
 * Guaranteed
+
 * Burstable
 * BestEffort
 
